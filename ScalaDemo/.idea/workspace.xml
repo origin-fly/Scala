@@ -1,0 +1,1066 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="310ece96-96e1-4e0c-8a15-998f3f24fdf7" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="241" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/day1219/RedisCli.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="295">
+              <caret line="137" lean-forward="true" selection-start-line="137" selection-end-line="137" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="docComment;class#RedisCli#0" expanded="true" />
+                <element signature="docComment;method#createRedisCli#0;class#RedisCli#0" expanded="true" />
+                <element signature="docComment;method#RedisTransaction#0;class#RedisCli#0" expanded="true" />
+                <element signature="e#1838#1954#0" expanded="true" />
+                <element signature="e#2742#2858#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/scala/ayibo/day1126/demo02.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/ayibo/day1126/demo03.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/ayibo/day1126/HelloWord.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/ayibo/day1126/student3.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/ayibo/day1127/demo01.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/ayibo/day1127/demo02.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/ayibo/day1127/demo03.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/ayibo/day1127/day04.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/ayibo/day1127/demo04.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/ayibo/day1127/demo05.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/ayibo/day1127/demo06.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/ayibo/day1128/demo01.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/ayibo/day1128/demo02.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/ayibo/day1128/demo03.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/ayibo/day1128/demo04.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/ayibo/day1128/HelloActor.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/ayibo/day1128/ActorToActor.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/ayibo/day1129/WorkerInfo.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/ayibo/day1129/ActorMessage.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/ayibo/day1129/Master.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/ayibo/day1129/Worker.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/ayibo/day1129/MasterSlaveSanagementSystem.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/ayibo/day1202/demo01.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/ayibo/day1203/TestWordCountJava.java" />
+        <option value="$PROJECT_DIR$/src/main/scala/ayibo/day1203/TestWordCount.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/ayibo/day1205/LogCountToMySQL.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/ayibo/day1205/LogCount.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/ayibo/day1205/LogPartition.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/ayibo/day1205/JdbcRDD.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/ayibo/day1209/demo03.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/ayibo/day1209/demo04.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/ayibo/day1209/demo01.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/ayibo/day1209/demo02.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/ayibo/day1209/SparkSQLExample.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/ayibo/day1209/SparkSQLUDFUDAF.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/ayibo/day1210/MyNetworkWordCount.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/ayibo/day1210/MyTotalNetworkWordCount.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/ayibo/day1210/MyNetworkWordCountByWindow.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/ayibo/day1210/MyNetworkWordCountWithSQL.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/ayibo/day1210/FileStreaming.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/ayibo/day1210/RDDQueueStreaming.scala" />
+        <option value="$PROJECT_DIR$/src/main/resources/log4j.properties" />
+        <option value="$PROJECT_DIR$/src/main/scala/ayibo/day1210/MyFlumeStreaming.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/ayibo/day1210/MyFlumeStreamingPUSH.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/ayibo/day1210/MyFlumeStreamingSINK.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/ayibo/day1212/LinearRegression.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/ayibo/day1212/graphXDemo.scala" />
+        <option value="$PROJECT_DIR$/src/test/java/day1216/ESTest_1216.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/day1219/RedisUtils.java" />
+        <option value="$PROJECT_DIR$/src/test/java/day1219/RedisCli.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Working\Tools\Eclipse\Maven\repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../Tools/Eclipse/Maven/apache-maven-3.5.0" />
+        <option name="userSettingsFile" value="D:\Working\Tools\Eclipse\Maven\apache-maven-3.5.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="jdkForImporter" value="1.8" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="ScalaDemo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="ScalaDemo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-130" />
+    <option name="y" value="72" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ScalaDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ScalaDemo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ScalaDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ScalaDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ScalaDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ScalaDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ScalaDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ScalaDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ScalaDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ScalaDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="ayibo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ScalaDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ScalaDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ScalaDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ScalaDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ScalaDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ScalaDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="day1219" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Working\IdeaWorkspace\ScalaDemo\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.RedisCli.RedisMessage">
+    <configuration name="ESTest_1216.wildcardQuery" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ScalaDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day1216.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="day1216" />
+      <option name="MAIN_CLASS_NAME" value="day1216.ESTest_1216" />
+      <option name="METHOD_NAME" value="wildcardQuery" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RedisCli.RedisLock" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ScalaDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day1219.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="day1219" />
+      <option name="MAIN_CLASS_NAME" value="day1219.RedisCli" />
+      <option name="METHOD_NAME" value="RedisLock" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RedisCli.RedisMessage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ScalaDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day1219.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="day1219" />
+      <option name="MAIN_CLASS_NAME" value="day1219.RedisCli" />
+      <option name="METHOD_NAME" value="RedisMessage" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RedisCli.RedisTransaction" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ScalaDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day1219.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="day1219" />
+      <option name="MAIN_CLASS_NAME" value="day1219.RedisCli" />
+      <option name="METHOD_NAME" value="RedisTransaction" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RedisCli.createRedisCli" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ScalaDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day1219.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="day1219" />
+      <option name="MAIN_CLASS_NAME" value="day1219.RedisCli" />
+      <option name="METHOD_NAME" value="createRedisCli" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.RedisCli.RedisMessage" />
+        <item itemvalue="JUnit.RedisCli.RedisLock" />
+        <item itemvalue="JUnit.RedisCli.RedisTransaction" />
+        <item itemvalue="JUnit.RedisCli.createRedisCli" />
+        <item itemvalue="JUnit.ESTest_1216.wildcardQuery" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\nieyf\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="310ece96-96e1-4e0c-8a15-998f3f24fdf7" name="Default Changelist" comment="" />
+      <created>1574404540837</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574404540837</updated>
+      <workItem from="1574404542069" duration="5180000" />
+      <workItem from="1574648468356" duration="7118000" />
+      <workItem from="1574676600035" duration="2675000" />
+      <workItem from="1574761805732" duration="8466000" />
+      <workItem from="1574825001854" duration="3731000" />
+      <workItem from="1574850683626" duration="5421000" />
+      <workItem from="1574909554448" duration="8395000" />
+      <workItem from="1574942357188" duration="330000" />
+      <workItem from="1574943096181" duration="2873000" />
+      <workItem from="1575001056522" duration="149000" />
+      <workItem from="1575001225616" duration="252000" />
+      <workItem from="1575001499521" duration="749000" />
+      <workItem from="1575004730176" duration="2060000" />
+      <workItem from="1575010184730" duration="1010000" />
+      <workItem from="1575011299134" duration="692000" />
+      <workItem from="1575012088463" duration="90000" />
+      <workItem from="1575012206569" duration="118000" />
+      <workItem from="1575012368838" duration="231000" />
+      <workItem from="1575012619921" duration="324000" />
+      <workItem from="1575012983897" duration="1090000" />
+      <workItem from="1575014095186" duration="202000" />
+      <workItem from="1575014320774" duration="170000" />
+      <workItem from="1575014629768" duration="1641000" />
+      <workItem from="1575016334508" duration="7346000" />
+      <workItem from="1575252381546" duration="3674000" />
+      <workItem from="1575292202317" duration="935000" />
+      <workItem from="1575361550461" duration="4604000" />
+      <workItem from="1575514602156" duration="9018000" />
+      <workItem from="1575601034770" duration="890000" />
+      <workItem from="1575875932391" duration="17468000" />
+      <workItem from="1575944716533" duration="7373000" />
+      <workItem from="1575961421362" duration="7303000" />
+      <workItem from="1576150455592" duration="2740000" />
+      <workItem from="1576203823988" duration="1197000" />
+      <workItem from="1576498508920" duration="2754000" />
+      <workItem from="1576566389684" duration="7607000" />
+      <workItem from="1576743687817" duration="6567000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="ESTest_1216_termQuery - 2019.12.17 at 17h 12m 33s.xml">
+      <configuration name="ESTest_1216.termQuery" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ESTest_1216_wildcardQuery - 2019.12.17 at 17h 12m 45s.xml">
+      <configuration name="ESTest_1216.wildcardQuery" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RedisCli_createRedisCli - 2019.12.19 at 16h 29m 56s.xml">
+      <configuration name="RedisCli.createRedisCli" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RedisCli_createRedisCli - 2019.12.19 at 16h 33m 51s.xml">
+      <configuration name="RedisCli.createRedisCli" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RedisCli_RedisTransaction - 2019.12.19 at 19h 28m 08s.xml">
+      <configuration name="RedisCli.RedisTransaction" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RedisCli_RedisTransaction - 2019.12.19 at 19h 28m 23s.xml">
+      <configuration name="RedisCli.RedisTransaction" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RedisCli_RedisLock - 2019.12.19 at 19h 34m 06s.xml">
+      <configuration name="RedisCli.RedisLock" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RedisCli_RedisLock - 2019.12.19 at 19h 34m 38s.xml">
+      <configuration name="RedisCli.RedisLock" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RedisCli_RedisMessage - 2019.12.19 at 19h 56m 52s.xml">
+      <configuration name="RedisCli.RedisMessage" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RedisCli_RedisMessage - 2019.12.19 at 19h 57m 49s.xml">
+      <configuration name="RedisCli.RedisMessage" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="132443000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-130" y="72" width="1936" height="1056" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49925038" visible="true" weight="0.22974414" />
+      <window_info id="Structure" order="1" sideWeight="0.50074965" side_tool="true" weight="0.18176973" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33479214" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991727" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.31947485" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" weight="0.32995737" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" weight="0.32995737" />
+      <window_info anchor="right" id="Coverage" order="10" side_tool="true" weight="0.32995737" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ScalaDemo$Worker.ic" NAME="Worker Coverage Results" MODIFIED="1575024451076" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ayibo.day1129.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/ayibo/day1126/demo02.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="13" lean-forward="true" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/ayibo/day1126/CreditCard.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="3" lean-forward="true" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
+          <folding>
+            <element signature="n#!!doc;n#CreditCard$#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/ayibo/day1126/demo03.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="51" selection-start-line="4" selection-start-column="51" selection-end-line="4" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/ayibo/day1127/demo01.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="18" lean-forward="true" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/ayibo/day1126/HelloWord.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/ayibo/day1126/student3.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="48" column="39" selection-start-line="48" selection-start-column="39" selection-end-line="48" selection-end-column="39" />
+          <folding>
+            <element signature="n#!!doc;n#student3#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/ayibo/day1127/demo02.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
+          <folding>
+            <element signature="n#!!doc;n#demo02$#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/ayibo/day1127/demo03.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="49" column="8" selection-start-line="49" selection-start-column="8" selection-end-line="49" selection-end-column="8" />
+          <folding>
+            <element signature="e#248#497#0" expanded="true" />
+            <element signature="e#696#878#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/ayibo/day1127/demo04.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="71" column="53" selection-start-line="71" selection-start-column="53" selection-end-line="71" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/ayibo/day1127/demo05.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="23" column="30" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/ayibo/day1127/demo06.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="n#!!doc;n#fanxingClass#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/ayibo/day1128/demo01.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="22" column="47" selection-start-line="22" selection-start-column="47" selection-end-line="22" selection-end-column="47" />
+          <folding>
+            <element signature="n#!!doc;n#demo01$#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/ayibo/day1128/demo02.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="12" column="23" lean-forward="true" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+          <folding>
+            <element signature="n#!!doc;n#demo02$#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/ayibo/day1128/demo03.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="35" column="37" lean-forward="true" selection-start-line="35" selection-start-column="37" selection-end-line="35" selection-end-column="37" />
+          <folding>
+            <element signature="n#!!doc;n#demo03$#0;n#!!top" expanded="true" />
+            <element signature="e#346#367#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/ayibo/day1128/demo04.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="35" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/ayibo/day1128/ActorToActor.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="41" column="25" lean-forward="true" selection-start-line="41" selection-start-column="25" selection-end-line="41" selection-end-column="25" />
+          <folding>
+            <element signature="e#24#52#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/ayibo/day1128/HelloActor.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="e#23#51#0" expanded="true" />
+            <element signature="e#156#204#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/ayibo/day1129/ActorMessage.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="19" column="38" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="38" />
+          <folding>
+            <element signature="n#!!doc;n#RegisterWorker#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/ayibo/day1129/MasterSlaveSanagementSystem.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding>
+            <element signature="e#23#61#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/ayibo/day1129/Worker.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="45" column="53" selection-start-line="45" selection-start-column="52" selection-end-line="45" selection-end-column="53" />
+          <folding>
+            <element signature="e#23#44#0" expanded="true" />
+            <element signature="n#!!doc;n#Worker#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/ayibo/day1129/WorkerInfo.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="75" selection-start-line="12" selection-start-column="75" selection-end-line="12" selection-end-column="75" />
+          <folding>
+            <element signature="n#!!doc;n#WorkerInfo#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/ayibo/day1129/Master.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1292">
+          <caret line="84" column="34" selection-start-line="84" selection-start-column="28" selection-end-line="84" selection-end-column="34" />
+          <folding>
+            <element signature="e#56#117#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/ayibo/day1202/demo01.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/ayibo/day1203/TestWordCountJava.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="482">
+          <caret line="37" column="66" lean-forward="true" selection-start-line="37" selection-start-column="66" selection-end-line="37" selection-end-column="66" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="docComment;class#TestWordCountJava#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/ayibo/day1203/TestWordCount.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="35" lean-forward="true" selection-start-line="17" selection-start-column="3" selection-end-line="20" selection-end-column="35" />
+          <folding>
+            <element signature="n#!!doc;n#TestWordCount$#0;n#!!top" expanded="true" />
+            <element signature="e#498#627#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/ayibo/day1205/LogCountToMySQL.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1105">
+          <caret line="68" column="19" selection-start-line="66" selection-start-column="41" selection-end-line="68" selection-end-column="19" />
+          <folding>
+            <element signature="e#24#73#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/ayibo/day1205/JdbcRDD.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+          <folding>
+            <element signature="e#23#52#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/ayibo/day1205/LogCount.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="14" column="51" selection-start-line="14" selection-start-column="51" selection-end-line="14" selection-end-column="51" />
+          <folding>
+            <element signature="n#!!doc;n#LogCount$#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/ayibo/day1205/LogPartition.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="54" selection-start-line="54" selection-end-line="54" />
+          <folding>
+            <element signature="e#23#85#0" expanded="true" />
+            <element signature="n#!!doc;n#LogPartition$#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/ayibo/day1209/demo01.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="54" selection-start-line="14" selection-start-column="54" selection-end-line="14" selection-end-column="54" />
+          <folding>
+            <element signature="e#23#77#0" expanded="true" />
+            <element signature="n#!!doc;n#demo01$#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/ayibo/day1209/demo03.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="16" column="76" lean-forward="true" selection-start-line="14" selection-start-column="4" selection-end-line="16" selection-end-column="76" />
+          <folding>
+            <element signature="e#23#50#0" expanded="true" />
+            <element signature="n#!!doc;n#demo03$#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/ayibo/day1209/demo04.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="511">
+          <caret line="35" column="16" lean-forward="true" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="16" />
+          <folding>
+            <element signature="e#23#50#0" expanded="true" />
+            <element signature="n#!!doc;n#demo04$#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/ayibo/day1209/demo02.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="39" lean-forward="true" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="39" />
+          <folding>
+            <element signature="n#!!doc;n#demo02$#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/ayibo/day1209/SparkSQLExample.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1615">
+          <caret line="107" column="56" selection-start-line="107" selection-start-column="52" selection-end-line="107" selection-end-column="56" />
+          <folding>
+            <element signature="e#23#56#0" expanded="true" />
+            <element signature="n#!!doc;n#Student#0;n#!!top" expanded="true" />
+            <element signature="n#!!doc;n#Course#0;n#!!top" expanded="true" />
+            <element signature="n#!!doc;n#Score#0;n#!!top" expanded="true" />
+            <element signature="n#!!doc;n#Teacher#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/ayibo/day1209/SparkSQLUDFUDAF.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="362">
+          <caret line="58" column="5" selection-start-line="58" selection-start-column="5" selection-end-line="58" selection-end-column="5" />
+          <folding>
+            <element signature="e#23#119#0" expanded="true" />
+            <element signature="n#!!doc;n#SparkSQLUDFUDAF$#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/ayibo/day1210/MyNetworkWordCountWithSQL.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="28" column="35" selection-start-line="28" selection-start-column="35" selection-end-line="28" selection-end-column="35" />
+          <folding>
+            <element signature="e#23#56#0" expanded="true" />
+            <element signature="n#!!doc;n#MyNetworkWordCountWithSQL$#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/ayibo/day1210/MyTotalNetworkWordCount.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="37" column="42" lean-forward="true" selection-start-line="32" selection-start-column="4" selection-end-line="37" selection-end-column="42" />
+          <folding>
+            <element signature="e#23#56#0" expanded="true" />
+            <element signature="n#!!doc;n#MyTotalNetworkWordCount$#0;n#!!top" expanded="true" />
+            <element signature="e#1022#1043#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/ayibo/day1210/MyNetworkWordCount.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="50" selection-start-line="21" selection-start-column="4" selection-end-line="26" selection-end-column="50" />
+          <folding>
+            <element signature="e#23#56#0" expanded="true" />
+            <element signature="n#!!doc;n#MyNetworkWordCount$#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/ayibo/day1210/RDDQueueStreaming.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="50" selection-start-line="11" selection-end-line="17" selection-end-column="50" />
+          <folding>
+            <element signature="e#23#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/ayibo/day1210/MyFlumeStreamingPUSH.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+          <folding>
+            <element signature="e#23#56#0" expanded="true" />
+            <element signature="n#!!doc;n#MyFlumeStreaming$#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/ayibo/day1210/FileStreaming.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="50" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="13" selection-end-column="50" />
+          <folding>
+            <element signature="e#23#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/ayibo/day1210/MyNetworkWordCountByWindow.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="26" column="58" lean-forward="true" selection-start-line="14" selection-start-column="4" selection-end-line="26" selection-end-column="58" />
+          <folding>
+            <element signature="e#23#56#0" expanded="true" />
+            <element signature="n#!!doc;n#MyNetworkWordCountByWindow$#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/ayibo/day1210/MyFlumeStreamingSINK.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="23" lean-forward="true" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
+          <folding>
+            <element signature="e#23#56#0" expanded="true" />
+            <element signature="n#!!doc;n#MyFlumeStreamingSINK$#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/ayibo/day1212/graphXDemo.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="22" column="44" selection-start-line="22" selection-start-column="44" selection-end-line="22" selection-end-column="44" />
+          <folding>
+            <element signature="e#23#67#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/ayibo/day1212/LinearRegression.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+          <folding>
+            <element signature="e#24#78#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/day1216/ESTest_1216.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="224" column="70" selection-start-line="224" selection-start-column="70" selection-end-line="224" selection-end-column="70" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="docComment;class#ESTest_1216#0" expanded="true" />
+            <element signature="docComment;method#createDocByJson#0;class#ESTest_1216#0" expanded="true" />
+            <element signature="docComment;method#getDataBySingleIndex#0;class#ESTest_1216#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="100" column="31" lean-forward="true" selection-start-line="100" selection-start-column="31" selection-end-line="100" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/commons/commons-pool2/2.4.2/commons-pool2-2.4.2.jar!/org/apache/commons/pool2/impl/GenericObjectPoolConfig.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="22" column="27" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="27" />
+          <folding>
+            <element signature="e#610#611#0" expanded="true" />
+            <element signature="e#650#651#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/day1219/RedisUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="20" lean-forward="true" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1293#1294#0" expanded="true" />
+            <element signature="e#1336#1337#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/day1219/RedisCli.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="137" lean-forward="true" selection-start-line="137" selection-end-line="137" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="docComment;class#RedisCli#0" expanded="true" />
+            <element signature="docComment;method#createRedisCli#0;class#RedisCli#0" expanded="true" />
+            <element signature="docComment;method#RedisTransaction#0;class#RedisCli#0" expanded="true" />
+            <element signature="e#1838#1954#0" expanded="true" />
+            <element signature="e#2742#2858#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>scala-sdk-2.11.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>ScalaDemo</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: aopalliance:aopalliance:1.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
